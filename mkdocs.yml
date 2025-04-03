@@ -1,0 +1,8 @@
+site_name: Political PR
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Adding News Sources: news_source.md
+  - Topics: topics.md
+  - People: people.md
